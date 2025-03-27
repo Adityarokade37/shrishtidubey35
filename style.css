@@ -133,7 +133,7 @@ section {
 }
 
 .skill {
-    background: #00bfff;
+    background: #fefbd8;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
@@ -141,7 +141,7 @@ section {
 }
 
 .skill:hover {
-    background: #007acc;
+    background: #ffef96;
 }
 
 /* Contact Section */
